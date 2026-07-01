@@ -1,2 +1,2 @@
 # cloudpulse
-Building every skill and tool I need in the cloud with deep understanding and hands-on projects
+Building every skill and understanding the relevant tools I need in DevOps with deep understanding and hands-on projects
